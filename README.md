@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnzhou1210&theme=default&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnzhou1210&theme=default&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzhou1210&theme=default&show_icons=true&hide_border=true&layout=compact)
 
